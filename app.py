@@ -1,7 +1,7 @@
 import os
 import signal
 from flask import Flask
-from cicd_buzz.buzz import generate
+from buzz import generate
 
 app = Flask(__name__)
 

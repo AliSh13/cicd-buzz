@@ -1,6 +1,4 @@
-import unittest
-
-from cicd_buzz.buzz import generate
+from buzz import generate
 
 
 def test_sample_single_word():
